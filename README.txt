@@ -1,1 +1,1 @@
-A project for the Oculus Rift
+A game for the Oculus Rift made in Unity.
