@@ -1,1 +1,1 @@
-A game for the Oculus Rift made in Unity.
+A game for the Oculus Rift made in Unity. Has two branches.
