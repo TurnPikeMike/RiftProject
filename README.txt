@@ -1,1 +1,1 @@
-A game for the Oculus Rift made in Unity. Has two branches.
+This folder Contains the Unity Heirarchy, as well as the Maya Heirarchy.

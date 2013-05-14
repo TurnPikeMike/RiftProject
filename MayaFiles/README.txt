@@ -1,0 +1,2 @@
+THis folder contains all the models and animations. the models and animations can be found in the Scenes folder.
+you are looking for the .FBX file extension for anything you need to import over to unity.
